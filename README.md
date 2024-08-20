@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Muhammad Arsalan Aftab</h1>  
-<h3 align="center">Web & Mobile App Developer</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Hashir Meraj</h1>  
+<h3 align="center">PHP Laravel Dev</h3>
  
 <div align="left">
   
-[![](https://visitcount.itsvg.in/api?id=ASHU191&icon=3&color=6)](https://github.com/ASHU191)
+[![](https://visitcount.itsvg.in/api?id=hashirmeraj&icon=3&color=6)](https://github.com/hashirmeraj)
   
 </div>
 
-* 💬 Ask me about anything, I am happy to help
-* ⚡ Proficient in HTML5, CSS3, JavaScript, and ReactJS for modern web development
-* 💡 Passionate about continuous learning and applying new web technologies
-* 🔭 Adept at converting designs into functional websites with clean, maintainable code
-* 🥅 Fun fact: I love to learn new things 
-
+* ⚡ Proficient in PHP, Laravel, MySQL, and JavaScript for backend and full-stack web development
+* 💡 Passionate about continuous learning and applying new backend technologies
+* 🔭 Adept at building scalable, secure web applications with clean, maintainable code
+* 🥅 Fun fact: I love to learn new things
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,firebase,mongodb,nodejs,dart,flutter,git,github,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwindcss,bootstrap,mysql,c,java,git,github,)](https://skillicons.dev)
 
 ### Connect with me:
 
