@@ -19,18 +19,13 @@
 
  
 <div id="badges">
-  <a href="https://github.com/ASHU191">
+  <a href="https://github.com/hashirmeraj">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/arsalan-aftab-69674624b/">
+  <a href="https://www.linkedin.com/in/hashir-meraj-678785249/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/aftab_arsalan?igsh=MWw5bWxueHNpbzc4Ng==
-">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://www.facebook.com/profile.php?id=100010565284145&mibextid=ZbWKwL
-">
+   <a href="https://www.facebook.com/hashirmerajofficial">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
